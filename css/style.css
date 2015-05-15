@@ -1,0 +1,13 @@
+#eater{
+	width: 500px;
+	height: 500px;
+	background: url("../img/smiley-faceS.jpg") no-repeat;
+}
+
+.poisonous {
+	background: url("../img/sick.png") no-repeat!important;
+}
+
+.smile {
+	background: url("../img/Big_smile.png") no-repeat !important;
+}
